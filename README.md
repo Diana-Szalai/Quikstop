@@ -1,4 +1,4 @@
-# Quikstop# Project 1: Styled Blog Website   
+# Quikstop : Responsive Real World Websites
 
 ## Overview
 This project creates a real World Websites with HTML5 and styling CSS3 
