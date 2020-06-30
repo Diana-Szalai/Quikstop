@@ -3,7 +3,8 @@
 ## Overview
 This project creates a real World Websites with HTML5 and styling CSS3 
 ## Examples from the project
-![Picture1](resources\css\img\Capture2.JPG)
+<img src="https://github.com/Diana-Szalai/Quikstop/blob/master/resources/img/Responsive_web_design.jpg?raw=true" width="201" height="750" />
+
 Build Responsive Real World Websites with HTML5 and CSS3.
 
 ## Table of Contents
